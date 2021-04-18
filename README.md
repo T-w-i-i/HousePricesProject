@@ -23,16 +23,6 @@ Use the formed data frame to come up with required data analysis results.
 
 ## Technologies used
 
-Vscode
-
 Jupyter Notebook
-
-Microsoft Power Bi
-
-JIRA Kanban for project management.
-
 Anaconda
-
-Excel to read csv files.
-
 GitHub for version control.
